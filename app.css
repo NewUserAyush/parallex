@@ -1,0 +1,16 @@
+
+    .image12{
+    position: relative;
+    z-index: -1;
+}
+
+.content{
+    height:750px;
+    width:1005;
+    margin-top:-10px;
+    background-color:darkgray;
+    position: relative;
+    z-index: 1;
+        
+}
+   
